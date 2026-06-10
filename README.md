@@ -48,7 +48,4 @@ Exploración de aplicaciones vinculadas a formulación, caracterización y uso d
 Responsable de línea:
 - Álvaro Jovic
 
-Dirección general:
-- Galo Balatti
-
 CREATIBIO – IUDPT
